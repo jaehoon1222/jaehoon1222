@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hello, I'm JaeHoon👋</h1>
+<h3>Hello, I'm JaeHoon👋</h3>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehoon1222%2Fhit-counter&count_bg=%234851D5&title_bg=%23F68CFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jaehoon1222)
